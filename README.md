@@ -65,15 +65,6 @@ pip install -r requirements.txt
 4. Open and run `thesis_code.ipynb` sequentially.
 5. The interactive dashboard launches automatically at the end of the notebook on `localhost`.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Author]. (2026). Bringing the Map to Life: Longitudinal Geodemographic Analysis
-of the Lisbon Metropolitan Area Using Self-Organizing Maps [Master's thesis].
-NOVA Information Management School, Universidade NOVA de Lisboa.
-```
 
 ## License
 
